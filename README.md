@@ -1,2 +1,2 @@
-# React-FrontendReact-Frontend
+# React-Frontend
 Learning react to get a job.SadlyfSadlyf
